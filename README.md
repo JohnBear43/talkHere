@@ -1,2 +1,2 @@
 # talkHere
-change chatbox to have me hear your voice.
+submit change to README.txt to have me hear your voice.
